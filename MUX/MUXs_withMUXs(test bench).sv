@@ -1,4 +1,4 @@
-//tb
+//test bench
 module mux_tb();
 logic [3:0]d0,d1,d2,d3,d4,d5,d6,d7;
 logic s1,s2,s0;
